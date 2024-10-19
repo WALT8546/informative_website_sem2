@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World Freedom Rankings</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-MHNP2RG4QH"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-MHNP2RG4QH');
+    </script>
+</head>
+<body>
+    <div class="page_title">
+        <p class="informativ">INFORMATIV</p>
+        <p class="website">WEBSITE</p>
+    </div>
+
+    <div class="wfr_title">
+        <p>WORLD</p>
+        <p class="freedom">FREEDOM</p>
+        <p class="rankings">SCORES</p>
+    </div>
+
+    <nav class="navigation">
+       <a href="/choose"><button class="right_button" >SCORES</button></a>
+       <a href="/about"><button class="left_button">ABOUT</button></a>
+    </nav>
+</body>
+</html>

@@ -1,0 +1,212 @@
+Country_ID ,Country_Name                   ,Region      ,Status
+         1 ,Abkhazia                       ,Eurasia     ,PF
+         2 ,Afghanistan                    ,Asia        ,NF
+         3 ,Albania                        ,Europe      ,PF
+         4 ,Algeria                        ,Africa      ,NF
+         5 ,Andorra                        ,Europe      ,F
+         6 ,Angola                         ,Africa      ,NF
+         7 ,Antigua and Barbuda            ,Americas    ,F
+         8 ,Argentina                      ,Americas    ,F
+         9 ,Armenia                        ,Eurasia     ,PF
+        10 ,Australia                      ,Asia        ,F
+        11 ,Austria                        ,Europe      ,F
+        12 ,Azerbaijan                     ,Eurasia     ,NF
+        13 ,Bahamas                        ,Americas    ,F
+        14 ,Bahrain                        ,Middle East ,NF
+        15 ,Bangladesh                     ,Asia        ,PF
+        16 ,Barbados                       ,Americas    ,F
+        17 ,Belarus                        ,Eurasia     ,NF
+        18 ,Belgium                        ,Europe      ,F
+        19 ,Belize                         ,Americas    ,F
+        20 ,Benin                          ,Africa      ,PF
+        21 ,Bhutan                         ,Asia        ,PF
+        22 ,Bolivia                        ,Americas    ,PF
+        23 ,Bosnia and Herzegovina         ,Europe      ,PF
+        24 ,Botswana                       ,Africa      ,F
+        25 ,Brazil                         ,Americas    ,F
+        26 ,Brunei                         ,Asia        ,NF
+        27 ,Bulgaria                       ,Europe      ,F
+        28 ,Burkina Faso                   ,Africa      ,NF
+        29 ,Burundi                        ,Africa      ,NF
+        30 ,Cabo Verde                     ,Africa      ,F
+        31 ,Cambodia                       ,Asia        ,NF
+        32 ,Cameroon                       ,Africa      ,NF
+        33 ,Canada                         ,Americas    ,F
+        34 ,Central African Republic       ,Africa      ,NF
+        35 ,Chad                           ,Africa      ,NF
+        36 ,Chile                          ,Americas    ,F
+        37 ,China                          ,Asia        ,NF
+        38 ,Colombia                       ,Americas    ,F
+        39 ,Comoros                        ,Africa      ,PF
+        40 ,Congo (Brazzaville)            ,Africa      ,NF
+        41 ,Congo (Kinshasa)               ,Africa      ,NF
+        42 ,Costa Rica                     ,Americas    ,F
+        43 ,Cote d'Ivoire                  ,Africa      ,PF
+        44 ,Crimea                         ,Eurasia     ,NF
+        45 ,Croatia                        ,Europe      ,F
+        46 ,Cuba                           ,Americas    ,NF
+        47 ,Cyprus                         ,Europe      ,F
+        48 ,Czech Republic                 ,Europe      ,F
+        49 ,Denmark                        ,Europe      ,F
+        50 ,Djibouti                       ,Africa      ,NF
+        51 ,Dominica                       ,Americas    ,F
+        52 ,Dominican Republic             ,Americas    ,PF
+        53 ,Eastern Donbas                 ,Eurasia     ,NF
+        54 ,Ecuador                        ,Americas    ,PF
+        55 ,Egypt                          ,Africa      ,NF
+        56 ,El Salvador                    ,Americas    ,PF
+        57 ,Equatorial Guinea              ,Africa      ,NF
+        58 ,Eritrea                        ,Africa      ,NF
+        59 ,Estonia                        ,Europe      ,F
+        60 ,Eswatini                       ,Africa      ,NF
+        61 ,Ethiopia                       ,Africa      ,NF
+        62 ,Fiji                           ,Asia        ,PF
+        63 ,Finland                        ,Europe      ,F
+        64 ,France                         ,Europe      ,F
+        65 ,Gabon                          ,Africa      ,NF
+        66 ,Gaza Strip                     ,Middle East ,NF
+        67 ,Georgia                        ,Eurasia     ,PF
+        68 ,Germany                        ,Europe      ,F
+        69 ,Ghana                          ,Africa      ,F
+        70 ,Greece                         ,Europe      ,F
+        71 ,Grenada                        ,Americas    ,F
+        72 ,Guatemala                      ,Americas    ,PF
+        73 ,Guinea                         ,Africa      ,NF
+        74 ,Guinea-Bissau                  ,Africa      ,PF
+        75 ,Guyana                         ,Americas    ,F
+        76 ,Haiti                          ,Americas    ,NF
+        77 ,Honduras                       ,Americas    ,PF
+        78 ,Hong Kong                      ,Asia        ,PF
+        79 ,Hungary                        ,Europe      ,PF
+        80 ,Iceland                        ,Europe      ,F
+        81 ,India                          ,Asia        ,PF
+        82 ,Indian Kashmir                 ,Asia        ,NF
+        83 ,Indonesia                      ,Asia        ,PF
+        84 ,Iran                           ,Middle East ,NF
+        85 ,Iraq                           ,Middle East ,NF
+        86 ,Ireland                        ,Europe      ,F
+        87 ,Israel                         ,Middle East ,F
+        88 ,Italy                          ,Europe      ,F
+        89 ,Jamaica                        ,Americas    ,F
+        90 ,Japan                          ,Asia        ,F
+        91 ,Jordan                         ,Middle East ,NF
+        92 ,Kazakhstan                     ,Eurasia     ,NF
+        93 ,Kenya                          ,Africa      ,PF
+        94 ,Kiribati                       ,Asia        ,F
+        95 ,Kosovo                         ,Europe      ,PF
+        96 ,Kuwait                         ,Middle East ,PF
+        97 ,Kyrgyzstan                     ,Eurasia     ,NF
+        98 ,Laos                           ,Asia        ,NF
+        99 ,Latvia                         ,Europe      ,F
+       100 ,Lebanon                        ,Middle East ,PF
+       101 ,Lesotho                        ,Africa      ,F
+       102 ,Liberia                        ,Africa      ,PF
+       103 ,Libya                          ,Africa      ,NF
+       104 ,Liechtenstein                  ,Europe      ,F
+       105 ,Lithuania                      ,Europe      ,F
+       106 ,Luxembourg                     ,Europe      ,F
+       107 ,Madagascar                     ,Africa      ,PF
+       108 ,Malawi                         ,Africa      ,PF
+       109 ,Malaysia                       ,Asia        ,PF
+       110 ,Maldives                       ,Asia        ,PF
+       111 ,Mali                           ,Africa      ,NF
+       112 ,Malta                          ,Europe      ,F
+       113 ,Marshall Islands               ,Asia        ,F
+       114 ,Mauritania                     ,Africa      ,PF
+       115 ,Mauritius                      ,Africa      ,F
+       116 ,Mexico                         ,Americas    ,PF
+       117 ,Micronesia                     ,Asia        ,F
+       118 ,Moldova                        ,Eurasia     ,PF
+       119 ,Monaco                         ,Europe      ,F
+       120 ,Mongolia                       ,Asia        ,F
+       121 ,Montenegro                     ,Europe      ,PF
+       122 ,Morocco                        ,Africa      ,PF
+       123 ,Mozambique                     ,Africa      ,PF
+       124 ,Myanmar                        ,Asia        ,NF
+       125 ,Nagorno-Karabakh               ,Eurasia     ,NF
+       126 ,Namibia                        ,Africa      ,F
+       127 ,Nauru                          ,Asia        ,F
+       128 ,Nepal                          ,Asia        ,PF
+       129 ,Netherlands                    ,Europe      ,F
+       130 ,New Zealand                    ,Asia        ,F
+       131 ,Nicaragua                      ,Americas    ,NF
+       132 ,Niger                          ,Africa      ,PF
+       133 ,Nigeria                        ,Africa      ,PF
+       134 ,North Korea                    ,Asia        ,NF
+       135 ,North Macedonia                ,Europe      ,PF
+       136 ,Northern Cyprus                ,Europe      ,F
+       137 ,Norway                         ,Europe      ,F
+       138 ,Oman                           ,Middle East ,NF
+       139 ,Pakistan                       ,Asia        ,PF
+       140 ,Pakistani Kashmir              ,Asia        ,NF
+       141 ,Palau                          ,Asia        ,F
+       142 ,Panama                         ,Americas    ,F
+       143 ,Papua New Guinea               ,Asia        ,PF
+       144 ,Paraguay                       ,Americas    ,PF
+       145 ,Peru                           ,Americas    ,PF
+       146 ,Philippines                    ,Asia        ,PF
+       147 ,Poland                         ,Europe      ,F
+       148 ,Portugal                       ,Europe      ,F
+       149 ,Qatar                          ,Middle East ,NF
+       150 ,Romania                        ,Europe      ,F
+       151 ,Russia                         ,Eurasia     ,NF
+       152 ,Rwanda                         ,Africa      ,NF
+       153 ,Samoa                          ,Asia        ,F
+       154 ,San Marino                     ,Europe      ,F
+       155 ,Sao Tome and Principe          ,Africa      ,F
+       156 ,Saudi Arabia                   ,Middle East ,NF
+       157 ,Senegal                        ,Africa      ,PF
+       158 ,Serbia                         ,Europe      ,PF
+       159 ,Seychelles                     ,Africa      ,F
+       160 ,Sierra Leone                   ,Africa      ,PF
+       161 ,Singapore                      ,Asia        ,PF
+       162 ,Slovakia                       ,Europe      ,F
+       163 ,Slovenia                       ,Europe      ,F
+       164 ,Solomon Islands                ,Asia        ,F
+       165 ,Somalia                        ,Africa      ,NF
+       166 ,Somaliland                     ,Africa      ,PF
+       167 ,South Africa                   ,Africa      ,F
+       168 ,South Korea                    ,Asia        ,F
+       169 ,South Ossetia                  ,Eurasia     ,NF
+       170 ,South Sudan                    ,Africa      ,NF
+       171 ,Spain                          ,Europe      ,F
+       172 ,Sri Lanka                      ,Asia        ,PF
+       173 ,St. Kitts and Nevis            ,Americas    ,F
+       174 ,St. Lucia                      ,Americas    ,F
+       175 ,St. Vincent and the Grenadines ,Americas    ,F
+       176 ,Sudan                          ,Africa      ,NF
+       177 ,Suriname                       ,Americas    ,F
+       178 ,Sweden                         ,Europe      ,F
+       179 ,Switzerland                    ,Europe      ,F
+       180 ,Syria                          ,Middle East ,NF
+       181 ,Taiwan                         ,Asia        ,F
+       182 ,Tajikistan                     ,Eurasia     ,NF
+       183 ,Tanzania                       ,Africa      ,PF
+       184 ,Thailand                       ,Asia        ,PF
+       185 ,The Gambia                     ,Africa      ,PF
+       186 ,Tibet                          ,Asia        ,NF
+       187 ,Timor-Leste                    ,Asia        ,F
+       188 ,Togo                           ,Africa      ,PF
+       189 ,Tonga                          ,Asia        ,F
+       190 ,Transnistria                   ,Eurasia     ,NF
+       191 ,Trinidad and Tobago            ,Americas    ,F
+       192 ,Tunisia                        ,Africa      ,PF
+       193 ,Turkey                         ,Europe      ,NF
+       194 ,Turkmenistan                   ,Eurasia     ,NF
+       195 ,Tuvalu                         ,Asia        ,F
+       196 ,Uganda                         ,Africa      ,NF
+       197 ,Ukraine                        ,Eurasia     ,PF
+       198 ,United Arab Emirates           ,Middle East ,NF
+       199 ,United Kingdom                 ,Europe      ,F
+       200 ,United States                  ,Americas    ,F
+       201 ,Uruguay                        ,Americas    ,F
+       202 ,Uzbekistan                     ,Eurasia     ,NF
+       203 ,Vanuatu                        ,Asia        ,F
+       204 ,Venezuela                      ,Americas    ,NF
+       205 ,Vietnam                        ,Asia        ,NF
+       206 ,West Bank                      ,Middle East ,NF
+       207 ,Western Sahara                 ,Africa      ,NF
+       208 ,Yemen                          ,Middle East ,NF
+       209 ,Zambia                         ,Africa      ,PF
+       210 ,Zimbabwe                       ,Africa      ,NF
+       211 ,Puerto Rico                    ,Americas    ,F

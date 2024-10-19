@@ -1,0 +1,70 @@
+body {
+    background-image: url('/static/images/background.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    font-family: "Rubik Mono One", monospace;
+  }
+
+.informativ{
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    color: white;
+    position: absolute;
+    left: 15%;
+    top: 3.3%;
+    font-size: 50px;
+    letter-spacing: 10%;
+}
+
+.website{
+    color: white;
+    position: absolute;
+    left: 15.3%;
+    top: 71%;
+    font-size: 50px;
+    font-weight: bold;
+    letter-spacing: 25%;
+}
+
+.wfr_title{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    right: 15%;
+    top: 15%;
+    font-size: 55px;
+    color: #94e36d;
+}
+
+.wfr_title p {
+    margin-bottom: 100px;
+}
+
+.freedom{
+    margin-left: 120px;
+}
+
+.rankings{
+    margin-left: 220px;
+}
+
+.navigation {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    display: flex;
+    gap: 10px;
+}
+
+.navigation button {
+    background-color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    color: black;
+    cursor: pointer;
+    border-radius: 15%;
+    font-family: "Rubik Mono One", monospace;
+}

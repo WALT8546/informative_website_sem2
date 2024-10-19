@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World Freedom Rankings</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/about_style.css') }}">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-MHNP2RG4QH"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-MHNP2RG4QH');
+    </script>
+</head>
+<body>
+    <h1 class="about_title">About This Website:</h1>
+
+    <div class="body_text">
+        <p>In this informative website you will be able to see the scores of each country’s
+            freedom throught the years 2013-2024. This data has been retrieved from the
+             <a href="https://freedomhouse.org/report/freedom-world">Freedom House</a> data. This data represents from a scale of 0-100
+            the level of freedom of the country.</p>
+    </div>
+
+    <nav class="navigation">
+        <a href="/choose"><button class="right_button">SCORES</button></a>
+        <a href="/"><button class="left_button">MENU</button></a>
+    </nav>
+</body>
+</html>

@@ -1,0 +1,42 @@
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>World Freedom Rankings</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/choose_style.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap" rel="stylesheet">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-MHNP2RG4QH"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-MHNP2RG4QH');
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1 class="main_text">Select a Country to View its Freedom Scores</h1>
+        <form method="post">
+            <select name="country" required>
+                <option value="" disabled selected>Select a country</option>
+                {% for country in countries %}
+                    <option value="{{ country.Country_ID }}">{{ country.Country_Name }}</option>
+                {% endfor %}
+            </select>
+            <br>
+            <button class="submition" type="submit">View Scores</button>
+        </form>
+    </div>
+
+    <nav class="navigation">
+        <a href="/about"><button class="right_button">ABOUT</button></a>
+        <a href="/"><button class="left_button">MENU</button></a>
+    </nav>
+</body>
+</html>
